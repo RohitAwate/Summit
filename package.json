@@ -1,0 +1,32 @@
+{
+  "name": "summit",
+  "version": "1.0.0",
+  "description": "The synchronization server for Everest.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RohitAwate/Summit.git"
+  },
+  "keywords": [
+    "everest",
+    "cloud-sync",
+    "synchronization",
+    "nodejs",
+    "socketio-server",
+    "rest-api"
+  ],
+  "author": "RohitAwate",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/RohitAwate/Summit/issues"
+  },
+  "homepage": "https://github.com/RohitAwate/Summit#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.14"
+  }
+}
